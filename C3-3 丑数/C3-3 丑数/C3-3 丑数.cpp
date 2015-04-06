@@ -21,7 +21,34 @@ True
 */
 #include "stdafx.h"
 #include<iostream>
-
+#include<string>
+using namespace std;
+int main()
+{
+	int n; cin >> n;
+	if (n == 1) {
+		cout << "False";
+	}
+	else{
+		if (n % 2 == 0)
+		{
+			while (n % 2 == 0){ n /= 2; }
+		}
+		if (n % 3 == 0)
+		{
+			while (n % 3 == 0){ n /= 3; }
+		}
+		if (n % 5 == 0)
+		{
+			while (n % 5 == 0){ n /= 5; }
+		}
+		if (n > 1)
+			cout << "False";
+		else
+			cout << "True";
+	}
+	return 0;
+}
 //int _tmain(int argc, _TCHAR* argv[])
 //{
 //	return 0;
