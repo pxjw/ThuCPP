@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C5-1 “鱼额宝”", "C5-1 “鱼额宝”\C5-1 “鱼额宝”.vcxproj", "{15F5FA28-B4E4-4048-B81B-4AF717A5CD96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F5FA28-B4E4-4048-B81B-4AF717A5CD96}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15F5FA28-B4E4-4048-B81B-4AF717A5CD96}.Debug|Win32.Build.0 = Debug|Win32
+		{15F5FA28-B4E4-4048-B81B-4AF717A5CD96}.Release|Win32.ActiveCfg = Release|Win32
+		{15F5FA28-B4E4-4048-B81B-4AF717A5CD96}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
